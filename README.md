@@ -4,6 +4,5 @@
 - 📫 How to reach me @sanjeevsp888@gmail.com
 
 <!---
-Sanjeevspuranik/Sanjeevspuranik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This readMe basically introduce myself to the tech world out there
 --->
