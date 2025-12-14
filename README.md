@@ -1,6 +1,6 @@
+# something about myself
 - 👋 Hi, I’m @Sanjeevspuranik
-- 👀 I’m interested in Data-science(MAchine Learning, Artificial Intelligence), Full stack development and mainly Problem-solving
-- 🌱 I’m currently studying my engineering in Bangalore, India
+- 👀 I’m interested in Agentic AI development, Agentic workflows, Ai automations, personal-agetic tools, etc
 - 📫 How to reach me? ---> @sanjeevsp888@gmail.com
 
 <!---
