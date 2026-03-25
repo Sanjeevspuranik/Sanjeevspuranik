@@ -1,8 +1,15 @@
-# something about myself
-- 👋 Hi, I’m @Sanjeevspuranik
-- 👀 I’m interested in Agentic AI development, Agentic workflows, AI automations, personal-agetic tools, MCP tools, Everyday problem solving, etc
-- 📫 How to reach me? ---> @sanjeevsp888@gmail.com
+# 👋 Hi, I’m Sanjeev S Puranik  
 
-<!---
-This readMe basically introduce myself to the tech world out there
---->
+### 🚀 About Me  
+I’m an **AI Engineer** passionate about building **agentic AI systems** and **modular workflows** that solve everyday problems. My focus areas include:  
+- Agentic AI development & automation  
+- Personal-agentic tools and MCP frameworks  
+- Multimodal pipelines (vision + language + reasoning)  
+- Everyday productivity through intelligent assistants  
+
+📫 Reach me at: **sanjeevsp888@gmail.com**  
+
+---
+
+### 📌 What Drives Me  
+I love architecting **modular, agentic workflows** that integrate perception (YOLO/CLIP), storage (SQLite), and reasoning (LLMs). My goal is to make AI **explainable, practical, and recruiter-ready** — whether it’s for surveillance, career guidance, or personal productivity.
